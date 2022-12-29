@@ -28,9 +28,11 @@
     - Changing Access Token and Refresh Token Token
       Settings.
 
-8. Securing Products-App applications with Keycloak (Frontend with thymeleaf)
+8. Securing Products-App applications with Keycloak (Frontend with thymeleaf).
 
-9. Securing Supplier-service applications with Keycloak (Micro-service backend)
+9. Securing Supplier-service applications with Keycloak (Micro-service backend).
+
+10. Demonstration.
 
 ### **Realization :**
 
@@ -72,6 +74,27 @@
       Settings.
 ![Code Demonstration](/assets/tokenExpiration.png)
 
+
+8. Securing Products-App applications with Keycloak (Frontend with thymeleaf).
+![Code Demonstration](/assets/productApp.png)
+
+
+9. Securing Supplier-service applications with Keycloak (Micro-service backend).
+![Code Demonstration](/assets/supplierApp.png)
+
+10. Demonstration:
+    -Home Page.
+![Code Demonstration](/assets/homePage.png)
+    -Login Page.
+![Code Demonstration](/assets/LoginPage.png)
+    -Register Page.
+![Code Demonstration](/assets/RegisterPage.png)
+    -Product List.
+![Code Demonstration](/assets/ProductLis.png)
+    -Suplier List.
+![Code Demonstration](/assets/supplierList.png)
+    -Authorization Issues.
+![Code Demonstration](/assets/errorPage.png)
 
 
 

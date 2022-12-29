@@ -43,7 +43,7 @@ public class ProductController{
 
     @ExceptionHandler(Exception.class)
     public String exceptionHandler(Exception e, Model model){
-        model.addAttribute("errorMessage", "Authorization Problem");
+        model.addAttribute("errorMessage", "You are not authorized");
         return "errors";
     }
 
